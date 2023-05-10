@@ -1,0 +1,32 @@
+@media screen and (max-width: 997px){
+
+    h1{
+        font-size: 48px!important;
+    }
+    h2{
+        font-size: 28px!important;
+    }
+    
+    p{
+        font-size: 20px!important;
+    }
+    
+}
+@media screen and (max-width: 720px){
+
+    .footer-img img{
+        width: 200px;
+    }
+    .haeding-title h1{
+        font-size: 40px!important;
+        line-height: 50px;
+    }
+    .center-link img {
+        max-width: 100%;
+    }
+    .footer-link{
+        width: 100%;
+    }
+    
+}
+
