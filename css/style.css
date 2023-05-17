@@ -69,7 +69,10 @@ p{
 }
 .list-about li{
 	font-size: 22px;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+	font-weight: 500;
 }
 .list-about li i{
 	color: rgb(66, 185, 159);
